@@ -2,6 +2,7 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 
 public class Project {
+	
 	// Attributes
 	int projectNumber;
 	String projectName;

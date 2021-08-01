@@ -1,5 +1,6 @@
 
 public class Person {
+	
 	// Attributes 
 	String name;
 	String personType;
